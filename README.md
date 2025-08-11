@@ -12,8 +12,8 @@ It allows users to explore a wide range of movies, view detailed information, an
 
 ## Tech Stack
 - **Frontend:** React, Vite
-- **Styling:** CSS / TailwindCSS (if used in your project)
-- **API:** [The Movie Database (TMDb) API](https://www.themoviedb.org/) or other movie API
+- **Styling:** CSS / TailwindCSS 
+- **API:** [The Movie Database (TMDb) API](https://www.themoviedb.org/) 
 - **Tooling:** ESLint, npm
 
 
